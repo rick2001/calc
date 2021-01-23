@@ -30,4 +30,4 @@ elif(n==5) :
 else:
     print(" thank you ! you choose the wrong one.")
 
-
+print("thanks for using our code")
